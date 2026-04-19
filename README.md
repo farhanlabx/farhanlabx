@@ -68,7 +68,7 @@ Currently focused on building real-world skills in **web development, networking
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
   <picture>
