@@ -102,8 +102,6 @@ Stay tuned for upcoming repositories!
 
 ## 🎧 Music
 
-## 🎧 Spotify
-
 <div align="center">
   <a href="https://open.spotify.com/user/31y3sadky6xhfaeymiiprsq6h2xy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y3sadky6xhfaeymiiprsq6h2xy&count=5&unique=true" />
