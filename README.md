@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👨‍💻 Muhamad Farhan Mubarak
 
-<!--
-**farhanlabx/farhanlabx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cyber Security Enthusiast | Web Developer | Tech Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate student and aspiring **Cyber Security Specialist** who loves exploring how systems work — and how to secure them.
+Currently focused on building real-world skills in **web development, networking, and security practices**.
+
+* 🎓 Student (SMK)
+* 🌍 Based in Indonesia
+* 💡 Interested in ethical hacking, system security, and modern web tech
+* 🎯 Goal: Become a professional in Cyber Security & build impactful tech solutions
+
+---
+
+## 🧠 Skills & Technologies
+
+### 🔐 Cyber Security
+
+* Basic understanding of **Web Security (SQL Injection, XSS, etc.)**
+* Familiar with **penetration testing concepts**
+* Learning **ethical hacking tools & techniques**
+* Understanding of **network fundamentals & protocols**
+
+### 💻 Web Development
+
+* HTML, CSS, JavaScript
+* Tailwind CSS (basic)
+* Responsive & modern UI design
+* Basic project structuring & deployment
+
+### ⚙️ Tools & Workflow
+
+* Git & GitHub (version control & collaboration)
+* VS Code
+* Figma
+* Burpsuite
+* Vue
+* Basic Linux usage (for development & learning security tools)
+
+---
+
+## 📌 Current Focus
+
+* 🔍 Deep learning in Cyber Security
+* 🌐 Building modern & secure websites
+* ⚡ Improving problem-solving & real-world project skills
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<p align="center">
+  <i>Tracking my coding journey, consistency, and growth in tech 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanlabx&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanlabx&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanlabx&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanlabx/farhanlabx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanlabx/farhanlabx/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/farhanlabx/farhanlabx/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 📂 Projects
+
+🚧 Currently building and improving projects
+Stay tuned for upcoming repositories!
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email:[hengkers34@gmail.com](mailto:hengkers34@gmail.com)
+* 📱 Instagram: @farhann_kebab
+
+---
+
+## ⚡ Quote
+
+> "Security is not a product, but a process."
