@@ -65,7 +65,9 @@ Currently focused on building real-world skills in **web development, networking
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanlabx&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
