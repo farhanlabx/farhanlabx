@@ -1,8 +1,6 @@
-# 👨‍💻 Muhamad Farhan Mubarak
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/c36cab7b-6a51-4a76-8e4a-e21621a9cd2d" />
 
-### 🔐 Cyber Security Enthusiast | Web Developer | Tech Learner
-
----
+<br>
 
 ## 🚀 About Me
 
